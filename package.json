@@ -1,0 +1,16 @@
+{
+  "name": "app_development",
+  "version": "1.0.0",
+  "description": "Udemy Node JS Development for Beginners Course - Ryan Dhungel",
+  "main": "index.js",
+  "type": "commonjs",
+  "date": "15 November 2023",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "theTrainMan",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
